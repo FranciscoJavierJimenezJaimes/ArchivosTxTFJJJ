@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArchivosTxt</string>
+    <string name="lblnombre">Ingresa tu nombre</string>
+    <string name="lblbbutton">Escribir</string>
+    <string name="lblcontenido">Informacion del archivo</string>
+    <string name="lblbtncargar">Cargar Informacion</string>
+</resources>
